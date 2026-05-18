@@ -2,7 +2,7 @@ name: Minha Primeira Linha de Montagem
 
 on:
   push:
-    branches: [ main ]
+    branches: [ principal ]
 
 jobs:
   build-e-teste:
